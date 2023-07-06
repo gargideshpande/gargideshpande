@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Gargi (she/her/hers) and I am a student at UC Berkeley studying Computer Science, Data Science, and Human Rights.
+- 👋 Hello, I’m Gargi and I am a student at UC Berkeley studying Computer Science, Data Science, and Human Rights.
 - 🌱 I’m interested in exploring blockchain technology, machine learning, and tech for social impact. Overall, I'm looking to branch out and explore new sectors of CS!
 - 📫 You can reach me at gargi@berkeley.edu
 
